@@ -1,1 +1,31 @@
 /* Write your CSS here */
+.cart-total-price-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.cart-price-heading {
+  color: #616e7c;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.cart-summary-total {
+  color: #171f46;
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.cart-total-items-count {
+  color: #616e7c;
+  font-size: 12px;
+}
+
+.check-out-btn {
+  background-color: #0b69ff;
+  color: #ffffff;
+  font-size: 12px;
+  padding: 10px;
+  border-width: 0;
+  width: 300px;
+}
